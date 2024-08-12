@@ -1,0 +1,11 @@
+{
+  "name": "playtube",
+  "version": "1.0.0",
+  "description": "app having youtube like functionallity",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah Ilyas",
+  "license": "ISC"
+}
